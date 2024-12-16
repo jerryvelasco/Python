@@ -3,4 +3,6 @@ created with python using requests and datatime library. creates a graph using P
 
 api doc - https://docs.pixe.la
 
-<img width="950" alt="Screenshot 2024-06-27 at 10 22 40" src="https://github.com/jerryvelasco/workout_tracker/assets/28275566/eb37f610-6da6-47d2-8f75-aa482cfbfc1f">
+<img width="950" alt="343815765-eb37f610-6da6-47d2-8f75-aa482cfbfc1f" src="https://github.com/user-attachments/assets/6d051fd5-9724-49bd-b0df-ae6b3f1a0a2b" />
+
+
