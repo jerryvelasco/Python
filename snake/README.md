@@ -1,3 +1,4 @@
 # snake
 Created using the PyGame Library
-<img width="862" alt="snake" src="https://github.com/jerryvelasco/snake/assets/28275566/d4ec6254-d820-4ae3-bae7-9007727dd4e0">
+
+<img width="512" alt="snake" src="https://github.com/user-attachments/assets/4a4fa708-075e-4ad9-abc9-d190ad40b2df" />
