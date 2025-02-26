@@ -2,4 +2,4 @@
 
 movie ranking site: https://www.empireonline.com/movies/features/best-movies-2/
 
-using the beautifulsoup library scrapes the top 100 movies and writes them to a text file.  
+using the beautifulsoup library, scraped the top 100 movies from the movie ranking website and wrote them to a text file.  
