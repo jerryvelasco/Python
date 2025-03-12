@@ -7,4 +7,4 @@ requirements:
 <br>json
 <br>requests
 <br>
-https://github.com/jerryvelasco/Python/blob/main/meme_website/random_memes.gif
+https://github.com/jerryvelasco/Python/blob/main/meme_website/random_memes.gif?raw=true
