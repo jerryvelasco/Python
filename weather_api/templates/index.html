@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>weather</h1>
+
+    <form action="/" method="post">
+        <label for="city">enter a city name: </label>
+        <input type="text" id="city" name="city">
+        <button type="submit">show me my weather</button>
+    </form>
+
+    {% if weather %}
+        <h2>weather in: {{ weather.city }}</h2>
+        <p>temperature: {{ weather.temperature }}</p>
+        <p>description: {{ weather.description }}</p>
+    {% elif weather is not none %}
+        <p>city not found. please try again.</p>
+    {% endif %}
+</body>
+</html>
