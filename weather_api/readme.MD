@@ -1,5 +1,5 @@
 Shows the current weather of a user inputted city using the OpenWeather api.<br>
-OpenWeather api - https://openweathermap.org/current<br><br>
+OpenWeather api - https://openweathermap.org/current<br>
 
 requirements:<br>
 fastapi<br>
